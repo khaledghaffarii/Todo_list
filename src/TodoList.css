@@ -1,0 +1,16 @@
+.todoList {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  text-overflow: none;
+}
+
+#list {
+  margin-bottom: -30px;
+  color: rgb(0, 0, 0) !important;
+
+  background: transparent !important;
+}
