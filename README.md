@@ -1,12 +1,9 @@
-# Getting Started with Create React App
+# react-todo-app-functional-components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple todo application built with React using only functional components. This exercise was intended to explore and learn more about React Hooks.
+![ReactJS Resume Website Template](todo.png?raw=true "ReactJS Resume Website Template")
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+## <a href="https://todo-ixdnqxxm7-khaledghaffarii.vercel.app" target="_blank">LIVE DEMO</a>
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
